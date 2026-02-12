@@ -1,4 +1,4 @@
-# TaskPilot👨‍🎓
+# CVFlash👨‍🎓
 
 ## 👋Project Overview
 CVFlash is a full-stack resume builder web application that enables users to create professional resumes using pre-designed templates with real-time preview functionality.
